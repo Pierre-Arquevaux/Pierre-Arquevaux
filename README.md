@@ -32,7 +32,7 @@
 
 ### My current projects 🔧  
 
-<p Working on my portfolio and a App for Pizza lovers :pizza: :it:
+<p> Working on my portfolio and a App for Pizza lovers :pizza: :it: </p>
 
 
 <br>
